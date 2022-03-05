@@ -1,2 +1,2 @@
-# cylinderCalculator
+# 3DBodyCalculator
 ## yes, seriously
