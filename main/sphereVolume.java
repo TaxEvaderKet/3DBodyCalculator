@@ -1,7 +1,7 @@
 /**
- * Anothe
+ * Another calculator for a three-dimensional body, have fun, 9th graders.
+ * by @TaxEvaderKet on GitHub
  */
-
 
 
 package main;
