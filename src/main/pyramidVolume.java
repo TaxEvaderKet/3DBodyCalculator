@@ -3,7 +3,7 @@
  * @TaxEvaderKet on
  * @GitHub
  */
-package main;
+package src.main;
 import java.util.Scanner;
 public class pyramidVolume {
     static double BLength; //same thing here, just adapting to the formula for a pyramid

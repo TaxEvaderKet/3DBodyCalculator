@@ -1,8 +1,8 @@
 /**
- * cylinder volume calculator by Ket on GitHub
+ * cylinder volume calculator by @Ket on GitHub
  * fairly simple but can be used for something, I guess
  */
-package main;
+package src.main;
 import java.util.Scanner;
 public class cylinderVolume{
    public static double BRadius; //declaring some variables here

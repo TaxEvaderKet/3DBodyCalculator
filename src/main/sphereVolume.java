@@ -4,7 +4,7 @@
  */
 
 
-package main;
+package src.main;
 import java.util.Scanner;
 public class sphereVolume { //3rd and counting...
     static double radius;
