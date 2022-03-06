@@ -18,26 +18,3 @@ Thank you for reading my dictionary remix.
 --- 
 Until we meet again... <img src="https://preview.redd.it/iolpxiggf5w61.png?width=531&format=png&auto=webp&s=65153fb4ad099b19b016cc6c62aa5bb5ddec788b">
 ===
-<style>
-    h1 {
-        color: red;
-        font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif; 
-    }
-    p {
-        color: cyan;
-        font-family: helvetica;
-    }
-    h3 {
-        color: cyan;
-    }
-    h4 {
-        color: cyan;
-    }
-    code {
-        color: red;
-    }
-    h2 {
-        color: Red;
-        font-family: consolas;
-    }
-</style>
