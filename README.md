@@ -16,5 +16,5 @@ It is usually the case, but on the weekend I will be doing at least 3 commits.
 Thank you for reading my dictionary remix.
 ```
 --- 
-Until we meet again... <img src="https://preview.redd.it/iolpxiggf5w61.png?width=531&format=png&auto=webp&s=65153fb4ad099b19b016cc6c62aa5bb5ddec788b">
+Until we meet again...
 ===
