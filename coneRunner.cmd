@@ -1,5 +1,5 @@
 @echo off
-echo make sure you have the cloned file in your "USER" directory (assuming you are a windows users)
+echo make sure you have the cloned file in your "USER" directory (assuming you are a windows user)
 pause
 cd c:\users\%username%\3DBodyCalculator\src\main
 :autoRun
