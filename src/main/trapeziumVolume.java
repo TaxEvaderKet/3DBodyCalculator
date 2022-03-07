@@ -14,9 +14,7 @@ public class trapeziumVolume {
     static Scanner input = new Scanner(System.in);
     static String unit;
     public static void main(String[] args) { //had to fix it up because it had pre-entered values
-        System.out.println
-        ("enter the values for:\nlength of the side \"a\" and \"b\"\nfor the height of the base and the height of the body");
-        //that above is for the sake of readability
+        System.out.println("enter the values for:\nlength of the side \"a\" and \"b\"\nfor the height of the base and the height of the body");
         aLength = input.nextDouble();
         cLength = input.nextDouble();
         HeightOf2d = input.nextDouble();
