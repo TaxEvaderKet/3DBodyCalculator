@@ -1,5 +1,5 @@
 /**
- * cylinder volume calculator by @Ket on GitHub
+ * cylinder volume calculator by @TaxEvaderKet on GitHub
  * fairly simple but can be used for something, I guess
  */
 package src.main;
