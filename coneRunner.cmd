@@ -6,4 +6,4 @@ cd c:\users\%username%\3DBodyCalculator\src\main
 set /P c=Do You Want To Run The coneVolume Program?(Y/N)?
 if /I "%c%" EQU "Y" javac coneVolume.java && java coneVolume
 if /I "%c%" EQU "N" exit
-exit
+:: I won't fix this, so send help please
