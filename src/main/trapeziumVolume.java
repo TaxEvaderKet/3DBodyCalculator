@@ -10,7 +10,7 @@ public class trapeziumVolume {
     static double HeightOf2d;
     static double surfaceOf2d; //will be calculated from a,c and height
     static double HeightOf3d;
-    static double volumeOf3d; //it will be calculated from volumeOf2d * heightOf3d
+    static double volumeOf3d; //it will be calculated from surfaceOf2d * heightOf3d
     static Scanner input = new Scanner(System.in);
     static String unit;
     public static void main(String[] args) { //had to fix it up because it had pre-entered values
