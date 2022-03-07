@@ -29,9 +29,9 @@ public class trapeziumVolume {
 
             break;
             
-
             case "cm":
                 volumeOf3d = volumeOf3d + 0;
+                
             break;
         }
         surfaceOf2d = aLength + cLength * HeightOf2d;
