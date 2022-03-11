@@ -16,12 +16,12 @@ public class sphereVolume { //3rd and counting...
         radius = input.nextDouble();
         switch (unit) {
             case "m":
-             volume = volume / 1000000;
-            break;
+                volume = volume / 1000000;
+                break;
 
             case "cm":
-             volume = volume - 0;
-            break;
+                volume = volume - 0;
+                break;
         }
         volume = 4 / 3 * Math.PI * (radius * radius * radius);
         unit = input.next();
