@@ -14,11 +14,13 @@ public class trapeziumVolume {
     static Scanner input = new Scanner(System.in);
     static String unit;
     public static void main(String[] args) { //had to fix it up because it had pre-entered values
-        System.out.println("enter the values for:\nlength of the side \"a\" and \"b\"\nfor the height of the base and the height of the body");
+        System.out.println("enter the values for the size of side \"a\" and size of side \"c\"");
         aLength = input.nextDouble();
         cLength = input.nextDouble();
+        System.out.println("and now enter the height of the base and the height of the body");
         HeightOf2d = input.nextDouble();
         HeightOf3d = input.nextDouble();
+        System.out.println("now select the unit (only cm or m)");
         unit = input.next();
         input.close(); //just realising how stupid I was just a few weeks ago
         switch (unit) {
