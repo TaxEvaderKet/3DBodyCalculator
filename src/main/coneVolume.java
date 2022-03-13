@@ -3,6 +3,7 @@
  * by the way, these have no particular license to follow, since everyone can do this.
  */
 package src.main;
+//import libraries.*;
 import java.util.Scanner;
 public class coneVolume {
     static double height; //correct me if I am wrong on this
@@ -12,6 +13,7 @@ public class coneVolume {
     static String unit;
     static Scanner input = new Scanner(System.in);
     public static void main(String[] args) {
+        System.out.println("Enter the height and the radius of your cone.");
         height = input.nextDouble();
         radius = input.nextDouble();
         unit = input.next();
@@ -29,4 +31,5 @@ public class coneVolume {
         System.out.println("The volume of your Cone is " + volume + unit + "³");
 
     }
+    
 }

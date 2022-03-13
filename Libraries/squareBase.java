@@ -1,11 +1,11 @@
-package Libraries;
+package libraries;
 import java.util.Scanner;
-interface squareBase {
-    static double calc(double a, double base){
+public interface squareBase {
+    static double calc(double SideA, double base){
         Scanner input = new Scanner(System.in);
-        a = input.nextDouble();
-        base = Math.pow(a, 3);
+        SideA = input.nextDouble();
+        base = Math.pow(SideA, 3);
         input.close();
-        return base;    
+        return base;
     }
 }

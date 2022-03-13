@@ -1,6 +1,6 @@
-package Libraries; //I am doing these interfaces for later on.
+package libraries; //I am doing these interfaces for later on.
 import java.util.Scanner;
-interface triangleBase {
+public interface triangleBase {
     static double calc(double baseSide, double height, double base){
         Scanner input = new Scanner(System.in);
         baseSide = input.nextDouble();
