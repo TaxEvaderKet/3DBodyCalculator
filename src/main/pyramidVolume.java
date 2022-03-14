@@ -7,10 +7,10 @@ package src.main;
 import java.util.Scanner;
 public class pyramidVolume {
     static double BLength; //same thing here, just adapting to the formula for a pyramid
-    static double BWidth;
-    static double Height;
+    static double BWidth; //baseWidth and baseLength
+    static double Height; //self-explanatory
     static double Base;
-    static double PVolume;
+    static double PVolume; //pyramidVolume
     static String unit;
     static Scanner input = new Scanner(System.in);
     public static void main(String[] args) {
